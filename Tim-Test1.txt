@@ -2,3 +2,4 @@ This is test file 1
 updates to this file
 updates to this file again
 One last update for the night
+Line added using Eclipse with integrated GIT
